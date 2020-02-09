@@ -1,0 +1,10 @@
+body{
+    background-image: url(/home/lawrence/documents/independent-project-week1/brown.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+#about{
+background-color: darkblue;
+margin: 5px;
+}

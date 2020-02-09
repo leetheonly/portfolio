@@ -1,0 +1,35 @@
+body{
+    background-image: url(/home/lawrence/documents/independent-project-week1/Trees-1024x682.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+   
+}
+p{
+    color:beige;
+}
+h1{
+    color: blue;
+}
+h2{
+    color:yellow;
+}
+ul{
+    color: white;
+}
+    #Lawrence{
+        text-align: center;
+        padding: 1px;
+    }
+    #projects{
+        width: 80%;
+    }
+   nav {align-self:right;
+
+   }
+   .text-box{
+       border-style: groove;
+       align-content: center;
+       border-style: solid;
+       color: yellow;
+   }
