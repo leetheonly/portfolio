@@ -3,7 +3,7 @@
 #### This is a project website about my self and a portfolio. current version 2020
 #### By **Lawrence ireri**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+This a webpage project porfolio about myself, my projects in moringa school and all I have learnt.The project uses HTML and css languages.
 ## Setup/Installation Requirements
 To start using this command use the following commands:
 * git clone https://github.com/leetheonly/portfolio
